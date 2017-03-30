@@ -3,6 +3,4 @@ Android Locker is an app where user, after creating an account, can upload impor
 
 Sample ScreenShots:
 
-![ScreenShot](acd1edd0-1556-11e7-9401-38dea47015a3.jpg)
-
-
+![ScreenShot]acd1edd0-1556-11e7-9401-38dea47015a3
